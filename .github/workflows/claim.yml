@@ -1,4 +1,4 @@
-claim.ymlname: Epicgames Freebies Claimer
+name: Epicgames Freebies Claimer
 on: 
   push:
   workflow_dispatch:
